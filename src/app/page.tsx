@@ -30,8 +30,8 @@ export default function page() {
     <div>
 {/* <Header/>  */}
 {/* <Navbar/>  */}
-{/* <HeroSection/> */}
-<BlogPage/>
+<HeroSection/>
+{/* <BlogPage/> */}
 {
   // <Products/>
   // <Leatest/>
